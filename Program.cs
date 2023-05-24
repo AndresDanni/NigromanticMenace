@@ -6,6 +6,7 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
+            // Juego: NIGROMANTIC MENACE v1.00
             string[] strHitPoint = new string[] { "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█" };
             string[] strJugador = new string[] { "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█", "█" };
             bool blnMenu = true;
